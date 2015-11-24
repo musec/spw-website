@@ -1,0 +1,134 @@
+previous:
+  - year: 2014
+    doi: 10.1007/978-3-319-12400-1
+    lncs: 8809
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 2013
+    doi: 10.1007/978-3-642-41717-7
+    lncs: 8263
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 2012
+    doi: 10.1007/978-3-642-35694-0
+    lncs: 7622
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 2011
+    doi: 10.1007/978-3-642-25867-1
+    lncs: 7114
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 2010
+    doi: 10.1007/978-3-662-45921-8
+    lncs: 7061
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 2009
+    doi: 10.1007/978-3-642-36213-2
+    lncs: 7028
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 2008
+    doi: 10.1007/978-3-642-22137-8
+    lncs: 6615
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 2007
+    doi: 10.1007/978-3-642-17773-6
+    lncs: 5964
+    location:
+      city: Brno
+      country: CZE
+
+  - year: 2006
+    doi: 10.1007/978-3-642-04904-0
+    lncs: 5087
+    location:
+      venue: Sidney Sussex College
+      city: Cambridge
+      country: UK
+
+  - year: 2005
+    doi: 10.1007/978-3-540-77156-2
+    lncs: 4631
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 2004
+    doi: 10.1007/11861386
+    lncs: 3957
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 2003
+    doi: 10.1007/11542322
+    lncs: 3364
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 2002
+    doi: 10.1007/b94819
+    lncs: 2845
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 2001
+    doi: 10.1007/3-540-45807-7
+    lncs: 2467
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 2000
+    doi: 10.1007/3-540-44810-1
+    lncs: 2133
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 1999
+    doi: 10.1007/10720107
+    lncs: 1796
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 1998
+    doi: 10.1007/3-540-49135-X
+    lncs: 1550
+    location:
+      city: Cambridge
+      country: UK
+
+  - year: 1997
+    doi: 10.1007/BFb0028154
+    lncs: 1361
+    location:
+      city: Paris
+      country: FR
+
+  - year: 1996
+    doi: 10.1007/3-540-62494-5
+    lncs: 1189
+    location:
+      city: Cambridge
+      country: UK

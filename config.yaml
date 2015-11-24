@@ -1,0 +1,19 @@
+baseurl: "https://www.engr.mun.ca/~spw2016/"
+languageCode: en-us
+title: Twenty-fourth International Workshop on Security Protocols
+theme: bootstrap
+
+params:
+  author: SPW 2016
+  location: Brno, Czech Republic
+  dates: 6-8 April 2016
+
+menu:
+  main:
+    - Name: Welcome
+      URL: /
+      Weight: -120
+    - Name: Organization
+      Weight: -110
+    - Name: Local arrangements
+      Weight: -100

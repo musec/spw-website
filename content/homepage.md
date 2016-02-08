@@ -54,7 +54,7 @@ for more details.
 
 | Date(s)      | Significance            |
 |--------------|-------------------------|
-| 31 January   | Submission of position papers |
+| 8 February <br/> ~~31 January~~ | Submission of position papers |
 | 22 February  | Invitations to authors  |
 | 14 March     | Revised papers due      |
 | 14 March     | Registration deadline   |

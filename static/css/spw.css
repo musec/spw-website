@@ -129,6 +129,11 @@ td:first-child
   border-color: rgb(217, 37, 23);
 }
 
+#news .news
+{
+  margin-bottom: 1em;
+}
+
 .news
 {
   background: rgba(217, 37, 23, 0.1);

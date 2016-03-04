@@ -13,6 +13,9 @@ menu:
     - Name: Welcome
       URL: /
       Weight: -120
+    - Name: Registration
+      URL: https://www.fi.muni.cz/~zriha/spw2016/reg_form.php
+      Weight: -115
     - Name: Organization
       Weight: -110
     - Name: Local arrangements

@@ -45,6 +45,6 @@ As with previous years, attendance at the
 International Workshop on Security Protocols is by invitation only.
 Position papers must be sent to
 [jonathan.anderson@mun.ca](mailto:jonathan.anderson@mun.ca?subject=SPW2016)
-by 31 January 2015.
+by 31 January 2016.
 Further details can be found at
 [http://www.engr.mun.ca/~spw2016](http://www.engr.mun.ca/~spw2016).

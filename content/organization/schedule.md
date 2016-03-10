@@ -6,12 +6,22 @@ menu:
 
 ---
 
-While we hammer out a final schedule for the SPW2016 sessions,
-the broad-strokes plan is:
+The tentative schedule for SPW2016 is:
 
-| Date      | Description                    |
-|-----------|--------------------------------|
-| 7 April   | Begin at approximately 10am    |
-| 8 April   | Conclude at approximately 3pm  |
+## Thursday, 7 April
 
-Note that there will be **no talk sessions on 6 April**.
+|                |              |
+|----------------|--------------|
+| Registration   |  1000--1030h |
+| Session 1      |  1030--1200h |
+| Session 2      |  1400--1500h |
+| Session 3      |  1530--1600h |
+
+
+## Friday, 8 April
+
+|                |              |
+|----------------|--------------|
+| Session 1      |  0930--1030h |
+| Session 2      |  1100--1200h |
+| Session 3      |  1330--1430h |

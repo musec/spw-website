@@ -102,6 +102,10 @@ iframe
   text-align: right;
 }
 
+td
+{
+  padding-bottom: 0.5em;
+}
 
 td:not(:first-child), th:not(:first-child)
 {

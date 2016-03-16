@@ -12,6 +12,7 @@ menu:
 |-------------|--------------|
 | 1000h | Registration   |
 | 1030h | Session 1: Models      |
+| | "Invisible Security". *Giampaolo Bella, Bruce Christianson, and Luca Viganò*.
 | | "Man-in-the-middle attacks evolved... but our security models didn't". *Hugo Jonker, Sjouke Mauw and Rolando Trujillo-Rasua*. |
 | | "The Price of Belief: Insuring Credible Trust?". *Paul Wernick and Bruce Christianson*.
 | 1200h | Lunch

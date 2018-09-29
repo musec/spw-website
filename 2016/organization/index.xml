@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organizations on Twenty-fourth International Workshop on Security Protocols</title>
+    <link>https://www.engr.mun.ca/~spw2016/organization/</link>
+    <description>Recent content in Organizations on Twenty-fourth International Workshop on Security Protocols</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://www.engr.mun.ca/~spw2016/organization/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ground rules</title>
+      <link>https://www.engr.mun.ca/~spw2016/organization/ground-rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.engr.mun.ca/~spw2016/organization/ground-rules/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;There must be a presenter for each position paper.&lt;/li&gt;
+&lt;li&gt;No two position papers can have the same presenter.&lt;/li&gt;
+&lt;li&gt;The presenter must pay the registration fee.&lt;/li&gt;
+&lt;li&gt;A presenter can bring a PhD student free (subject to prior notification), but
+part of the task of the presenter is to lead a discussion about the
+implications and wider context of the ideas, so we generally expect the person
+paying the registration fee to take the lead (and the PhD student to
+participate and contribute).&lt;/li&gt;
+&lt;li&gt;There is limited opportunity for additional participants who are not
+presenters (e.g. coauthors) to register, or for a presenter to bring a second
+free PhD student. Contact us early on if you might want to do either of these.&lt;/li&gt;
+&lt;li&gt;PhD students attend the workshop only.&lt;/li&gt;
+&lt;li&gt;Yes, you can bring your PhD student as a dinner guest.&lt;/li&gt;
+&lt;li&gt;There are separate rules for computer lab or UH PhD students.&lt;/li&gt;
+&lt;li&gt;We expect presenters to attend for the whole workshop - you can’t build your
+discussion on what has already happened if you weren’t there.&lt;/li&gt;
+&lt;li&gt;Presenters are expected to present in the allocated slot. We choose the
+running order and groupings carefully, the talks are cumulative and do not
+commute.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Important dates</title>
+      <link>https://www.engr.mun.ca/~spw2016/organization/dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.engr.mun.ca/~spw2016/organization/dates/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date(s)&lt;/th&gt;
+&lt;th&gt;Significance&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;31 January&lt;/td&gt;
+&lt;td&gt;Submission of position papers&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;22 February&lt;/td&gt;
+&lt;td&gt;Invitations to authors&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14 March&lt;/td&gt;
+&lt;td&gt;Revised papers due&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14 March&lt;/td&gt;
+&lt;td&gt;Registration deadline&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;6-8 April&lt;/td&gt;
+&lt;td&gt;Workshop&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>https://www.engr.mun.ca/~spw2016/organization/committee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.engr.mun.ca/~spw2016/organization/committee/</guid>
+      <description>&lt;dl&gt;
+&lt;dt&gt;&lt;a href=&#34;http://www.engr.mun.ca/~anderson/&#34;&gt;Jonathan Anderson&lt;/a&gt; (2016 chair)&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;http://www.mun.ca/engineering/ece&#34;&gt;Department of Electrical and Computer Engineering&lt;/a&gt;, Memorial University&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://go.herts.ac.uk/bruce_christianson&#34;&gt;Bruce Christianson&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;https://www.herts.ac.uk/apply/schools-of-study/computer-science&#34;&gt;School of Computer Science&lt;/a&gt;,
+University of Hertfordshire&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;http://www.fi.muni.cz/usr/matyas/&#34;&gt;Vashek (Vaclav) Matyas&lt;/a&gt;
+(local arrangements chair)&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;http://www.fi.muni.cz/&#34;&gt;Faculty of Informatics&lt;/a&gt;, Masaryk University&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;http://www.cl.cam.ac.uk/~fms27/&#34;&gt;Frank Stajano&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;https://www.cl.cam.ac.uk&#34;&gt;Computer Laboratory&lt;/a&gt;, University of Cambridge&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://www.engr.mun.ca/~spw2016/organization/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.engr.mun.ca/~spw2016/organization/schedule/</guid>
+      <description>
+
+&lt;h2 id=&#34;thursday-7-april:6b0be342d4ab5efd25856c2371c7688a&#34;&gt;Thursday, 7 April&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1000h&lt;/td&gt;
+&lt;td&gt;Registration&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1030h&lt;/td&gt;
+&lt;td&gt;Session 1: Models&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Invisible Security&amp;rdquo;. &lt;em&gt;Giampaolo Bella, Bruce Christianson, and Luca Viganò&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Man-in-the-middle attacks evolved&amp;hellip; but our security models didn&amp;rsquo;t&amp;rdquo;. &lt;em&gt;Hugo Jonker, Sjouke Mauw and Rolando Trujillo-Rasua&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;The Price of Belief: Insuring Credible Trust?&amp;ldquo;. &lt;em&gt;Paul Wernick and Bruce Christianson&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1200h&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1400h&lt;/td&gt;
+&lt;td&gt;Session 2: practical evolution&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Evolving DDoS Attacks and Defenses&amp;rdquo;. &lt;em&gt;Min Suk Kang, Virgil Gligor and Vyas Sekar&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;The evolution of a security control&amp;rdquo;. &lt;em&gt;Olgierd Pieczul and Simon N. Foley&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1500h&lt;/td&gt;
+&lt;td&gt;Coffee&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1530h&lt;/td&gt;
+&lt;td&gt;Session 3: unconventional perspectives&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Novel security and privacy perspectives of camera fingerprints&amp;rdquo;. &lt;em&gt;Jeff Yan&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Exploiting Autocorrect to Attack Privacy&amp;rdquo;, &lt;em&gt;Brian J. Kidney and Jonathan Anderson&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;friday-8-april:6b0be342d4ab5efd25856c2371c7688a&#34;&gt;Friday, 8 April&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0930h&lt;/td&gt;
+&lt;td&gt;Session 1: authentication I&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;SMAPs: Short Message Authentication Protocols&amp;rdquo;. &lt;em&gt;Khaled Baqer, Johann Bezuidenhoudt, Ross Anderson and Markus Kuhn&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Explicit delegation using configurable cookies&amp;rdquo;. &lt;em&gt;David Llewellyn-Jones, Graeme Jenkinson and Frank Stajano&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1030h&lt;/td&gt;
+&lt;td&gt;Coffee&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1100h&lt;/td&gt;
+&lt;td&gt;Session 2: authentication II&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Red button and yellow button: usable security for lost security tokens&amp;rdquo;. &lt;em&gt;Ian Goldberg, Graeme Jenkinson, David Llewellyn-Jones and Frank Stajano&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Detecting failed attacks on human-interactive security protocols&amp;rdquo;. &lt;em&gt;A.W. Roscoe&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1200h&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1330h&lt;/td&gt;
+&lt;td&gt;Session 3: distributed systems&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Malicious Clients in Distributed Secret Sharing Based Storage Networks&amp;rdquo;. &lt;em&gt;Andreas Happe, Stephan Krenn, and Thomas Lorünser&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Reconsidering Attacker Models in Ad-hoc Networks&amp;rdquo;. &lt;em&gt;Radim Ošťádal, Petr Švenda, and Vashek Matyáš&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Submission</title>
+      <link>https://www.engr.mun.ca/~spw2016/organization/submission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.engr.mun.ca/~spw2016/organization/submission/</guid>
+      <description>&lt;p&gt;To be considered for invitation, you must send a first draft of a position paper
+to Jonathan Anderson
+(&lt;a href=&#34;mailto:jonathan.anderson@mun.ca?subject=SPW2016&#34;&gt;jonathan.anderson@mun.ca&lt;/a&gt;)
+by the published deadline.
+Short indicative submissions are preferred, preferably no more than 2000 words.
+You will have the opportunity to extend and revise your paper both before the
+pre-proceedings are issued, and after the workshop.
+At the workshop, you will be expected to spend ten minutes introducing the idea
+of your paper.
+This will be followed by a longer discussion.&lt;/p&gt;
+
+&lt;p&gt;Please also refer to the
+&lt;a href=&#34;https://www.engr.mun.ca/~spw2016/~spw2016/organization/ground-rules/&#34;&gt;Ground Rules&lt;/a&gt; and
+&lt;a href=&#34;https://www.engr.mun.ca/~spw2016/~spw2016/organization/dates/&#34;&gt;Important Dates&lt;/a&gt;
+for further information.&lt;/p&gt;
+
+&lt;p&gt;The proceedings of previous workshops in this series have been published by
+Springer-Verlag as Lecture Notes in Computer Science (see LNCS 8809, 8263, 7622,
+7114, 7028, 6615, 5964, 5087, 4631, 3957, 3364, 2845, 2467, 2133, 1796, 1550,
+1361 and 1189).
+If you have not previously attended the Security Protocols Workshop, you may
+find it helpful to refer to these to get an idea of the flavour.&lt;/p&gt;
+
+&lt;p&gt;If your paper has been accepted and you wish to revise it before the workshop,
+you may do so. However, please note the absolute and hard deadline for receiving
+any such revision.&lt;/p&gt;
+
+&lt;p&gt;There are no stipulations as to how position papers should be formatted for the
+pre-proceedings; anything that fits onto A4 will do. You will have the
+opportunity to revise your paper after the workshop for the final proceedings.
+However, you will need prepare your final (revised) paper in LaTeX using
+llncs.cls according to the Springer-Verlag Guidelines for Publication. This is a
+single column format. Final submissions MUST be in LaTeX form. You will also be
+required to complete a Springer copyright form.&lt;/p&gt;
+
+&lt;p&gt;There is no page limit, but short submissions are encouraged, especially for
+position papers to appear in the pre-proceedings. In the final publication form
+in the Springer LNCS series, we believe the longest paper in recent years was
+under 15 pages.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
